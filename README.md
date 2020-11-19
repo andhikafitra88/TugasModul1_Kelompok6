@@ -1,2 +1,7 @@
 # TugasModul1_Kelompok6
- Genap OnClick()
+
+## Screenshot ada data
+![Adadata](/adadata.png)
+
+## Screenshot tidak ada data
+![Nodata](/nodata.png)
